@@ -2,7 +2,7 @@
 name = "basisu"
 description = "A bit-exact pure-Rust Basis Universal texture transcoder (.ktx2 and .basis)."
 version = "0.1.1"
-rust-version = "1.73"
+rust-version = "1.87"
 edition.workspace = true
 license.workspace = true
 repository.workspace = true
